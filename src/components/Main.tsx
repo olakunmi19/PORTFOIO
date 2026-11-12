@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */ // TODO: replace href="#" placeholders with real GitHub/LinkedIn URLs
 import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
